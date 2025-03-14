@@ -31,6 +31,6 @@
     <ListButton>Button 3</ListButton>
   </List>
   <List inset>
-    <ListButton className="k-color-brand-red">Red Button</ListButton>
+    <ListButton class="k-color-brand-red">Red Button</ListButton>
   </List>
 </Page>

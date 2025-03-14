@@ -143,7 +143,7 @@
     opened={rightFloatingPanelOpened}
     onBackdropClick={() => (rightFloatingPanelOpened = false)}
   >
-    <Page className="no-safe-areas-top no-safe-areas-bottom">
+    <Page class="no-safe-areas-top no-safe-areas-bottom">
       <Navbar title="Right Panel">
         <Link
           slot="right"
