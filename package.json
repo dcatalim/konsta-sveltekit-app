@@ -44,6 +44,7 @@
 		"@capacitor/android": "^7.1.0",
 		"@capacitor/app": "^7.0.0",
 		"@capacitor/core": "^7.1.0",
+		"@capacitor/keyboard": "^7.0.0",
 		"framework7-icons": "^5.0.5",
 		"konsta": "^4.0.1",
 		"mode-watcher": "^0.5.1"
